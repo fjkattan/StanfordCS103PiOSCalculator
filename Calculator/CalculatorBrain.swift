@@ -6,7 +6,7 @@
 //  Copyright © 2016 FranciscoKattan2. All rights reserved.
 //
 
-// This is the implementation of the "Model" in the MVC pattern
+// This is the implementation of the "Model" in the MVC pattern from CS193P
 
 import Foundation
 
